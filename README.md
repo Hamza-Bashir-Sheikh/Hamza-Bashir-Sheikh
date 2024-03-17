@@ -3,8 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-bashir-sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-bashir-sheikh" /> </p>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=hamza-bashir-sheikh&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fshuffle-your-ideas-in-the-bowl-of-web-design-and-development--381398662198018617%2F&psig=AOvVaw0_S18wZPd6zgTJf-bSphJ6&ust=1710735778270000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDr6Mm5-oQDFQAAAAAdAAAAABAR)" alt="hamza-bashir-sheikh" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-bashir-sheikh" alt="hamza-bashir-sheikh" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/hamza bashir" target="blank"><img src="https://img.shields.io/twitter/follow/hamza bashir?logo=twitter&style=for-the-badge" alt="hamza bashir" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://agencypartner.com/wp-content/uploads/2022/05/91382-web-development.gif"/>
+
+- 🔭 I’m currently working on **"STAM" Web site**
 
 - 🌱 I’m currently learning **Java script, Frameworks**
 
@@ -14,10 +19,11 @@
 
 - 📫 How to reach me **originalhamzabashir@gmail.com**
 
-- ⚡ Fun fact **I am creative 😁.**
+- ⚡ Fun fact **I am creative 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/hamza bashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamza bashir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamzabashirsheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzabashirsheikh" height="30" width="40" /></a>
 </p>
 
