@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Bashir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-bashir-sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-bashir-sheikh" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=hamza-bashir-sheikh&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fshuffle-your-ideas-in-the-bowl-of-web-design-and-development--381398662198018617%2F&psig=AOvVaw0_S18wZPd6zgTJf-bSphJ6&ust=1710735778270000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDr6Mm5-oQDFQAAAAAdAAAAABAR)" alt="hamza-bashir-sheikh" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-bashir-sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-bashir-sheikh" /> </p>
 
