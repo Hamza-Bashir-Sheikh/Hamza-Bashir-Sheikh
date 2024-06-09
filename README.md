@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://agencypartner.com/wp-content/uploads/2022/05/91382-web-development.gif"/>
 
-- 🔭 I’m currently working on **"STAM" Web site**
+- 🔭 I’m currently working on **"MERN_JOB_PORTAL" Web site**
 
 - 🌱 I’m currently learning **Java script, Frameworks**
 
